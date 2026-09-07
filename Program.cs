@@ -11,10 +11,15 @@ namespace EJERCICIO_SEMANA4
         static void Titulo()
         {
             Console.WriteLine("=============================================");
-            Console.WriteLine("\t\tBANCO NACIONAL");
+            Console.WriteLine("_____      ____                      ");
+            Console.WriteLine("|    |    |    |    |\   |            ");
+            Console.WriteLine("|____|    |____|    | \  |            ");
+            Console.WriteLine("|    |    |    |    |  \ |            ");
+            Console.WriteLine("|____|    |    |    |   \|            ");
+            Console.WriteLine("|");
             Console.WriteLine("                   $ ");
             Console.WriteLine("                   $ ");
-            Console.WriteLine("                   $ ");
+            Console.WriteLine("                  $$$ ");
             Console.WriteLine("              $$$$$$$$$$$   ");
             Console.WriteLine("              $"             );
             Console.WriteLine("              $             ");
@@ -22,7 +27,7 @@ namespace EJERCICIO_SEMANA4
             Console.WriteLine("                        $   ");
             Console.WriteLine("                        $   ");
             Console.WriteLine("              $$$$$$$$$$$   ");
-            Console.WriteLine("                   $         ");
+            Console.WriteLine("                  $$$         ");
             Console.WriteLine("                   $        ");
             Console.WriteLine("                   $       ");
             Console.WriteLine("=============================================");
@@ -33,10 +38,10 @@ namespace EJERCICIO_SEMANA4
 
         static void Main(string[] args)
         {
-            // hola pe
+           Titulo();
 
 
-        
+
 
 
 
