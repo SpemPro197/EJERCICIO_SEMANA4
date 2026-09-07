@@ -16,10 +16,15 @@ namespace EJERCICIO_SEMANA4
             Console.WriteLine("                   $ ");
             Console.WriteLine("                   $ ");
             Console.WriteLine("              $$$$$$$$$$$   ");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("              $"             );
+            Console.WriteLine("              $             ");
+            Console.WriteLine("              $$$$$$$$$$$   ");
+            Console.WriteLine("                        $   ");
+            Console.WriteLine("                        $   ");
+            Console.WriteLine("              $$$$$$$$$$$   ");
+            Console.WriteLine("                   $         ");
+            Console.WriteLine("                   $        ");
+            Console.WriteLine("                   $       ");
             Console.WriteLine("=============================================");
 
             Console.WriteLine("Todos los asociados al banco tienen de beneficio 1,000.00 Nuevos Soles.");
